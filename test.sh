@@ -1,17 +1,18 @@
+=!/bin/bash
 {
   printf '\r[      ]'
   sleep 1
-  printf '\r[#     ]'
+  printf '\r[=     ]'
   sleep 1
-  printf '\r[##    ]'
+  printf '\r[==    ]'
   sleep 1
-  printf '\r[###   ]'
+  printf '\r[===   ]'
   sleep 1
-  printf '\r[####  ]'
+  printf '\r[====  ]'
   sleep 1
-  printf '\r[##### ]'
+  printf '\r[===== ]'
   sleep 1
-  printf '\r[######]'
+  printf '\r[======]'
   sleep 1
   printf '\n'
 }
